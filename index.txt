@@ -1,0 +1,258 @@
+Vismay -Personal Portfolio
+
+# sidebar
+
+alt = Vismay Jain
+Vismay Jain
+AI/ML Engineer
+
+Show Contacts
+
+Email
+ai20.vismay.jain@gmail.com
+
+Phone
++91 6351464527
+
+Birthday
+Sept 27, 2002
+
+Location
+Surat , Gujarat , India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I am an AI/ML Engineer from Sydney, Australia, specializing in developing innovative machine learning models and intelligent systems. My passion lies in transforming complex data problems into actionable insights and efficient algorithms.
+
+My role involves designing and implementing AI solutions that are not only robust and scalable but also user-friendly and impactful. I infuse each project with a blend of technical expertise and creativity, ensuring that the solutions are not just powerful but also intuitive and accessible. My goal is to harness the potential of AI to solve real-world problems and drive meaningful advancements.
+
+I have developed AI-driven applications and machine learning models for a variety of high-profile companies, delivering solutions that enhance efficiency, accuracy, and user experience.
+
+
+## service
+
+alt = data mining icon
+Data Collection & Mining
+Collecting and mining high-quality data from diverse sources to fuel advanced machine learning models.
+
+alt = data pipeline icon
+Data Pipelines
+Building robust and scalable data pipelines to streamline data processing and ensure efficient data flow for machine learning applications.
+
+alt = model tuning icon
+Model Fine-Tuning
+Fine-tuning state-of-the-art models to achieve optimal performance and accuracy tailored to specific use cases and datasets.
+
+alt = llm inference icon
+LLM Inference
+Implementing large language model (LLM) inference systems for real-time and batch processing, delivering intelligent and responsive AI solutions.
+
+alt = rag agents icon
+RAG Agents
+Developing Retrieval-Augmented Generation (RAG) agents to combine the power of retrieval and generation, providing precise and context-aware responses.
+
+alt = innovation icon
+AI Innovations
+Exploring and implementing cutting-edge AI techniques and solutions to address complex problems and drive technological advancements.
+
+
+
+## testimonials
+
+Testimonials
+
+alt = Richard Jenkins
+Richard Jenkins
+Vismay was hired to develop a machine learning model for our predictive analytics. We were very pleased with the work done. He has a lot of experience and is very attentive to the needs of the client. His expertise significantly improved our forecasting accuracy.
+
+alt = Gabriel Jiminez
+Gabriel Jiminez
+Vismay was hired to design a comprehensive data pipeline for our organization. We were very pleased with the work done. He demonstrated exceptional skill in ensuring our data processing was efficient and reliable. His solutions have streamlined our operations immensely.
+
+alt = Corinne Allgaier
+Corinne Allgaier
+Vismay was hired to fine-tune our machine learning models. We were very pleased with the work done. He meticulously adjusted the models to enhance their performance, resulting in more accurate and insightful outputs. His dedication to precision is commendable.
+
+alt = John Angove
+John Angove
+Vismay was hired to implement an LLM inference system for our customer support automation. We were very pleased with the work done. He effectively integrated the system, greatly improving our response times and customer satisfaction. His innovative approach brought remarkable improvements to our service.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Uka Tarsadia University
+B.Tech in Artificial Intelligence & Data Science
+Grade: 8.77/10
+2020 — 2024
+Developed a strong foundation in AI and Data Science, gaining hands-on experience with machine learning models, data processing, and advanced algorithms.
+
+Eden International School
+Higher Secondary (12th Grade)
+Grade: 72.8%
+2018 — 2020
+Focused on science and mathematics, laying the groundwork for advanced studies in technology and engineering.
+
+Swami Vivekanand Govt Model School (KV)
+Junior Secondary (10th Grade)
+Grade: 85.4%
+2017 — 2018
+Excelled in core subjects, demonstrating a strong aptitude for analytical and logical reasoning.
+
+Experience
+
+Logictrix Infotech
+AI/ML Intern
+May 2023 - July 2023
+
+Collaborated with teams to analyze and resolve data discrepancies.
+Fine-tuned ALBERT model for email classification and automated deployment on AWS.
+
+Commercient
+AI/ML Intern
+Dec 2023 - June 2024
+
+Developed data synchronization DLL for ODBC databases, QuickBooks, and Salesforce.
+Utilized large language models for helpdesk ticket summarization and developed a RAG chat assistant.
+Enhanced response quality and speed using OpenAI embeddings and LLMs.
+Optimized RAG solution, reducing response time from 20 seconds to 5 seconds.
+My skills
+
+LLM
+80%
+Data Pipeline
+70%
+ML
+90%
+Deployment
+50%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
